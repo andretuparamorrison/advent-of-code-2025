@@ -1,0 +1,38 @@
+{
+  "ts-node": {
+    "cwd": "C:\\Users\\Andre\\Repositories\\advent-of-code-2025",
+    "projectSearchDir": "C:\\Users\\Andre\\Repositories\\advent-of-code-2025"
+  },
+  "compilerOptions": {
+    "lib": [
+      "es2022"
+    ],
+    "module": "node16",
+    "target": "es2022",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node16",
+    "types": [
+      "node"
+    ],
+    "sourceMap": true,
+    "inlineSourceMap": false,
+    "inlineSources": true,
+    "declaration": false,
+    "noEmit": false,
+    "outDir": "./.ts-node",
+    "moduleDetection": "force",
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "strictBindCallApply": true,
+    "strictPropertyInitialization": true,
+    "strictBuiltinIteratorReturn": true,
+    "alwaysStrict": true,
+    "useUnknownInCatchVariables": true,
+  }
+}
