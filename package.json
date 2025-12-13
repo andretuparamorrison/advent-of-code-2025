@@ -11,7 +11,9 @@
     "day-3:part-1": "ts-node src/day-3/part-1.ts",
     "day-3:part-2": "ts-node src/day-3/part-2.ts",
     "day-4:part-1": "ts-node src/day-4/part-1.ts",
-    "day-4:part-2": "ts-node src/day-4/part-2.ts"
+    "day-4:part-2": "ts-node src/day-4/part-2.ts",
+    "day-5:part-1": "ts-node src/day-5/part-1.ts",
+    "day-5:part-2": "ts-node src/day-5/part-2.ts"
   },
   "keywords": [],
   "author": "",
