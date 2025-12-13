@@ -43,9 +43,9 @@ for (const turn of input) {
         else if (dialPosition === DIAL_MAX + 1) {
             dialPosition = DIAL_MIN;
         }
-    }
-    if (dialPosition === DIAL_TARGET) {
-        targetCounter++;
+        if (dialPosition === DIAL_TARGET) {
+            targetCounter++;
+        }
     }
 }
 
